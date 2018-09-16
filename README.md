@@ -7,10 +7,10 @@ MapReduce framework.
 
 ### Deliverables
 You are required to turn in the following items in a zip file (username HadoopPageRank.zip) in this assignment:
-• The source code of Hadoop PageRank you implemented.
-• Technical report (username HadoopPageRank report.docx) that contains:
-• The description of the main steps and data flow in your program.
-• The output file (username HadoopPageRank output.txt) which contains the first 10 urls along with
++ The source code of Hadoop PageRank you implemented.
++ Technical report (username HadoopPageRank report.docx) that contains:
++ The description of the main steps and data flow in your program.
++ The output file (username HadoopPageRank output.txt) which contains the first 10 urls along with
 their ranks.
 
 ### What is PageRank?
