@@ -1,4 +1,4 @@
-# MapReduce_pageRank
+# MapReduce-page-rank Cloud Computing Project 2
 
 ### Goal
 This assignment provides an illustration of PageRank algorithms and Hadoop. You will then blend these
